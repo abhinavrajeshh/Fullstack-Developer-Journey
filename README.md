@@ -1,6 +1,6 @@
-#Fullstack Developer Journey – 2026
+# Fullstack-Developer-Journey – 2026
 
-This repository tracks my journey to becoming a MERN stack developer.
+>This repository tracks my journey to becoming a MERN stack developer.
 
 Goal : 
 
