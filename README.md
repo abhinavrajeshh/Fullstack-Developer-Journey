@@ -9,12 +9,4 @@ Goal :
 - Work with MongoDB
 - Build and deploy full-stack projects
 
-Plan :
-
-1. HTML & CSS
-2. JavaScript
-3. Node & Express
-4. MongoDB
-5. Full MERN Project
-
 > Rule: Consistent progress. No restarting.
