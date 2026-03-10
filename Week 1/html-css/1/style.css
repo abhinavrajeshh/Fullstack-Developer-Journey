@@ -9,6 +9,13 @@ body{
     color: white;
     border-radius: 3px;
 }
+.sub:hover{
+    background-color: rgb(255, 255, 255);
+    color: rgb(228, 30, 30);
+}
+.sub:active{
+    background-color: rgba(41, 199, 107, 0.835);
+}
 .join{
     background-color: white;
     border: 2px solid rgb(55, 152, 212);
