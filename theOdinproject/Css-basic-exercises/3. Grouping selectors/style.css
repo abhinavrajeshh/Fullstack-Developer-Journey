@@ -1,0 +1,14 @@
+.blacky{
+    background-color: black;
+    color: white;
+
+}
+.yelloww{
+    background-color: yellow;
+    color: black;
+}
+
+.blacky, .yelloww{
+    font-size: 28px;
+    font-family: helvetica , 'Times New Roman', Times, serif;
+}
