@@ -1,0 +1,16 @@
+/* This is CHAINING */
+.red{
+    background-color: red;
+    border: 2px solid black;
+}
+
+.sweet {
+  background-color: yellow;
+  border: 2px solid black;
+}
+
+/* This is CHAINING */
+.red.sweet {
+  background-color: cyan;
+  border: 5px solid darkgreen;
+}
