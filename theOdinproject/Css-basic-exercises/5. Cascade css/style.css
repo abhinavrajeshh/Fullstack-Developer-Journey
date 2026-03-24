@@ -1,0 +1,5 @@
+p { color: red; }            /* Tag selector (Low specificity) */
+
+.text { color: blue; }       /* Class selector (Medium specificity) */
+
+#main-para { color: green; } /* ID selector (High specificity) - WINS! */
