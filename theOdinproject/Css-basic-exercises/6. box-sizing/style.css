@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    /* turn this box sizing property off , then u will understand.. */
+}
+
+.box{
+    background-color: aqua;
+    border: 2px solid red;
+    height: 300px;
+    width: 280px;
+    margin: 20px;
+}
+
+.inside-box{
+    background-color: lightcoral;
+    border: 2px solid black;
+    height: 150px;
+    width: 150px;
+    margin: 60px;
+    padding: 10px;
+}
