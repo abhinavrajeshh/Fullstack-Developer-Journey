@@ -1,0 +1,14 @@
+.parent {
+  display: flex;            /* 1. Turn on Flexbox */
+  justify-content: space-around; /* 2. Spread them out evenly */
+  align-items: center;      /* 3. Center them vertically */
+  
+  background-color: lightgrey;
+  height: 200px;
+}
+
+.child {
+  background-color: cyan;
+  padding: 20px;
+  border: 2px solid darkblue;
+}

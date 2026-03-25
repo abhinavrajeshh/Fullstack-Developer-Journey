@@ -1,0 +1,35 @@
+/* Basic Reset */
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.navbar {
+  background-color: #333;
+  padding: 10px;
+}
+
+.navbar ul {
+  list-style-type: none; /* Removes the bullets */
+  text-align: center;
+}
+
+.navbar li {
+  display: inline-block;
+  /* display: block; */
+  /* display: inline; */
+}
+
+.navbar a {
+  text-decoration: none;
+  color: white;
+  padding: 10px 20px; /* Gives the "button" feel */
+  display: block; /* Makes the whole padding area clickable */
+}
+
+/* Hover Effect */
+.navbar a:hover {
+  background-color: #555;
+  border-radius: 5px;
+}
