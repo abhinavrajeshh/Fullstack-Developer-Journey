@@ -53,12 +53,15 @@ ul {
     display: flex;
   justify-content: space-between;
   align-items: center;
+  padding: 8px;
 }
 .container1{
     display: flex;
 }
 .container1 ul{
     display: flex;
+    margin-left: 10px;
+    padding: 0;
     gap: 20px;
     align-items: center;
 }
