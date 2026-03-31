@@ -95,7 +95,9 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ### 📅 March 31, 2026
 
-* Continuing the journey...
+* Completed the Landing page
+* starting Javascript section
+
 
 ---
 
