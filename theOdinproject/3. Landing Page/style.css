@@ -1,0 +1,142 @@
+/* basic ---------- */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');   
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+.first-page{
+    background-color: #1f2937;
+    height: 100vh;
+}
+/* --------------------- */
+header{
+    color: white;
+    padding: 20px 40px;
+
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: 700;
+}
+.header-container ul{
+    list-style-type: none;
+    display: flex;
+    gap: 20px;
+}
+
+.header-container ul li a{
+    text-decoration: none;
+    color: white;
+    
+}
+
+/* ----------------------- */
+.hero-section{
+    margin-top: 100px;
+}
+.section-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#section1{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    align-items: start;
+    
+}
+.heading{
+    font-size: 48px;
+    color: white;
+    font-weight: 900;
+}
+#section1 p{
+    color: white;
+    width: 400px;
+    text-align: left;
+}
+
+#section2{
+    background-color: grey;
+    height: 200px;
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#section1 button{
+    /* width: 100px; */
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: #3882f6;
+    color: white;
+}
+/* ---page 2 ------ */
+
+.second-page{
+    height: 60vh;
+}
+.second-page .heading{
+    display: flex;
+    justify-content: center;
+    color: black;
+    font-size: 30px;
+    font-weight: 900;
+    margin-top: 50px;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    margin-top: 40px;
+}
+
+.box{
+    border: 5px solid #3882f6;
+    height: 150px;
+    width: 140px;
+    border-radius: 20px;
+}
+
+.box-text{
+    width: 150px;
+    text-align: center;
+    color: grey;
+    margin-top: 10px;
+}
+
+/* -------page 3----- */
+
+.third-page{
+    background-color: grey;
+    height: 50vh;
+    
+}
+.quote{
+    font-size: 35px;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   width: 700px;
+   margin: 50px;
+}
+.undername{
+    display: flex;
+    justify-content: end;
+    width: 700px;
+    font-size: 20px;
+    font-weight: 700;
+       font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
