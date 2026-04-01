@@ -43,14 +43,10 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 March 19, 2026
-
-* Started this journey
-* Began with FreeCodeCamp
-* Later shifted to The Odin Project roadmap
 
 ### 📅 March 20, 2026
 
+* Made this plan
 * Started learning with The Odin Project
 
 ### 📅 March 21, 2026
