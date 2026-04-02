@@ -94,7 +94,14 @@ This repository documents my **daily progress, projects, and learning journey** 
 * Completed the Landing page
 * starting Javascript section
 
+### 📅 April 1, 2026
 
+* Started with JS basics
+* going through the foundations
+
+### 📅 April 2, 2026
+
+* 
 ---
 
 ## 💡 Mindset
