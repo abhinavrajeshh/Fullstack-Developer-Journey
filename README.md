@@ -101,7 +101,12 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ### 📅 April 2, 2026
 
-* 
+* Started doing the exercises section
+
+### 📅 April 3, 2026
+
+* completed exercise 1
+
 ---
 
 ## 💡 Mindset
