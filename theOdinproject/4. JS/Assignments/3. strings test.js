@@ -1,4 +1,5 @@
-// let str = "hello world";
+
+//  let str = "hello world";
 // let splitted = str.split("");
 // console.log(splitted);
 // -------------------
@@ -20,5 +21,10 @@
 // console.log(replaced);
 // -------------------------------
 
+
+// let str = "I am learning JS";
+// let splitted = str.split(" ");
+
+// console.log(splitted.length);
 
 
