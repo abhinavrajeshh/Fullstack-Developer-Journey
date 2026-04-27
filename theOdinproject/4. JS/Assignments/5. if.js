@@ -368,9 +368,28 @@
 //     i++;
 // } while(i<=3);
 // ---------------
-let j = 0;
-for(let i = 1;i<=5;i++){
-    console.log(i);
-    j = j+i;
+// let j = 0;
+// for(let i = 1;i<=5;i++){
+//     console.log(i);
+//     j = j+i;
+// }
+// console.log("Sum = ",j);
+// ---------------------
+// ---NESTED LOOOOPPPPPPP-----
+
+// for(let i = 1; i<= 5;i++){
+//     for(let j=1;j<=3;j++){
+//         console.log(i,j);
+        
+//     }
+    
+// }
+// -----------------
+for(let i = 1; i<= 5; i++){
+    for(let j = 1; j<= 5; j++){
+        console.log("* ");
+        
+    }
+    console.log("\n");
+    
 }
-console.log("Sum = ",j);
