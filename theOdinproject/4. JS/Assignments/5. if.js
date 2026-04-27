@@ -208,13 +208,169 @@
 //     console.log("Fail");
     
 // }
+// --------------------
+// if (marks >= 90) {
+//   console.log("Excellent");
+// } else if (marks >= 70) {
+//   console.log("Good");
+// } else if (marks >= 50) {
+//   console.log("Average");
+// } else {
+//   console.log("Fail");
+// }
+// ---Ternary operator--------
+// let age = 70;
+// let result = age>25 ? "yes": "no";
+// console.log(result);
+// ---practice--------------
 
-if (marks >= 90) {
-  console.log("Excellent");
-} else if (marks >= 70) {
-  console.log("Good");
-} else if (marks >= 50) {
-  console.log("Average");
-} else {
-  console.log("Fail");
+// let num = 18;
+// console.log(num>=0? "Positive":"Negative");
+// ---------------
+
+// let num = 8;
+// console.log(num%2===0? "Even":"Odd");
+// -----------
+
+// --Switch statement----
+// let day = 2;
+// switch(day){
+//     case 1:
+//         console.log("Monday");
+//         break;
+//         case 2:
+//             console.log("Tuesday");
+//             break;
+//             case 3:
+//                 console.log("Wednesday");
+//                 break;
+//                 case 4:
+//                     console.log("Thursday");
+//                     break;
+//                     case 5:
+//                         console.log("Friday");
+//                         break;
+//                         case 6:
+//                             console.log("Saturday");
+//                             break;
+//                             case 7:
+//                                 console.log("sunday");
+//                                 break;
+//                                 default:
+//                                     console.log("invalid day");
+//                                     break;
+// }
+// -------------------
+// let a = 10;
+// let b = 5;
+// let op = "+";
+// switch(op){
+//     case "+":
+//         console.log(a+b);
+//         break;
+//             case "-":
+//                 console.log(a-b);
+//                 break;
+//                 case "/":
+//                     console.log(a/b);
+//                     break;
+//                     case "*":
+//                         console.log(a*b);
+//                         break;
+//                         default:
+//                             console.log("Invalid");
+//                             break;                         
+                    
+                
+// }
+// -----------------
+// let grade = "B";
+
+// switch(grade){
+//     case "A":
+//         console.log("Excellent");
+//         break;
+//         case "B":
+//             console.log("Good");
+//             break;
+//             case "C":
+//                 console.log("Average");
+//                 break;
+//             default:
+//                 console.log("Fail");
+//                 break;
+                
+// }
+// -----------------------------
+
+// let role = "admin";
+// switch(role){
+//     case "admin":
+//         console.log("Full access");
+//         break;
+//         case "user":
+//             console.log("Limited access");
+//             break;
+//             case "guest":
+//                 console.log("View only");
+//                 break;
+//                 default:
+//                     console.log("Unknown role");
+//                     break;
+                
+// }
+// ------------------
+// -------LOOPS------
+
+// for(let i = 1; i<=5;i++){
+//     console.log("*");
+// }
+// -------------
+// let i = 1;
+// while(i<=5){
+//     console.log(i);
+//     i++
+// }
+// ----------
+// let i = 1;
+// do {
+//     console.log("*");
+//     i++;
+// } while(i<= 5);
+// -------------
+// practice section--------
+
+// let i;
+// for(i = 1; i<=10;i++){
+//     console.log(i);
+// }
+// ------------------
+// for(let i = 1; i<=20;i++){
+//     if(i%2==0){
+//         console.log(i);
+        
+//     }
+// }
+// -------------
+// for(let i = 10; i>=1;i--){
+//     console.log(i);
+// }
+// -------------------
+// let i =1;
+// while(i<=5){
+//     console.log(i);
+//     i++
+// }
+// -------------
+// let i = 1;
+// do{
+//     console.log(i);
+//     i++;
+// } while(i<=3);
+// ---------------
+let j = 0;
+for(let i = 1;i<=5;i++){
+    console.log(i);
+    j = j+i;
 }
+console.log("Sum = ",j);

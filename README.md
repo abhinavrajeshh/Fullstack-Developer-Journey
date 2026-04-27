@@ -116,6 +116,14 @@ This repository documents my **daily progress, projects, and learning journey** 
 * did some exercises with all of these
 * then started if/else
 
+### April 26th, 2026
+
+* Came to reading room for studying properly
+* Continued the balance js section
+* learned conditional operators, comparison operators, logical operators, switch, loops
+* practiced everything through exercises
+
+
 ---
 
 ## 💡 Mindset
