@@ -107,6 +107,15 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 * completed exercise 1
 
+### April 25th, 2026
+
+* Restarted the journey after a break of procastination
+* started with js basics
+* then continued to strings and its methods
+* then to next comparisons
+* did some exercises with all of these
+* then started if/else
+
 ---
 
 ## 💡 Mindset
