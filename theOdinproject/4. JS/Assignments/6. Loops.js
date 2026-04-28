@@ -107,3 +107,15 @@
 // }
 // console.log(row);
 // }
+// -----------------
+//-----
+// practice ------
+// let i, j;
+// for(i =1;i<=4;i++){
+// let row = "";
+// for(j=1;j<=4;j++){
+// row = row + "* ";
+// }
+// console.log(row);
+
+// }
