@@ -140,3 +140,28 @@
 // console.log(row);
 // }
 // ------------------
+// let i, j;
+// for(i =1;i<=4;i++){
+// let row = "";
+// for(j=1;j<=i;j++){
+// row = row + i +" ";
+// }
+// console.log(row);
+// }
+// -------------------
+// let i , j, k=1;
+
+
+// for(i=1; i<=4;i++){
+// let row = "";
+
+// for(j=1; j<=i; j++){
+// row = row + k +" ";
+// k++;
+// }
+// console.log(row);
+
+// }
+
+// ------------------
+
