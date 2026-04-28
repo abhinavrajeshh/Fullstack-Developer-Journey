@@ -123,6 +123,13 @@ This repository documents my **daily progress, projects, and learning journey** 
 * learned conditional operators, comparison operators, logical operators, switch, loops
 * practiced everything through exercises
 
+### April 27th, 2026
+
+* Practiced loops extensively
+* Learned nested loops (basic understanding)
+* Understood pattern logic (square, increasing, decreasing)
+* Learned importance of building rows before printing
+* Struggled with patterns but improved logic
 
 ---
 
