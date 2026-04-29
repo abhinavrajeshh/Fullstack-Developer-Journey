@@ -41,8 +41,8 @@
 // }
 // console.log(greet("GPT"));
 // -------------
-function biggest(num1, num2, num3){
-    let max = num1>num2?num1:num2;
-    return max > num3?max:num3;
-}
-console.log(biggest(102, 203, 209));
+// function biggest(num1, num2, num3){
+//     let max = num1>num2?num1:num2;
+//     return max > num3?max:num3;
+// }
+// console.log(biggest(102, 203, 209));

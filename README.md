@@ -2,27 +2,25 @@
 
 Hi, I’m **Abhinav**, a BCA student from Kerala, currently on a mission to become a **MERN Stack Developer**.
 
-This repository documents my **daily progress, projects, and learning journey** as I work towards building real-world skills and landing my first developer job.
+This repository documents my **daily progress, projects, and learning journey** as I work toward building real-world skills and landing my first developer job.
 
 ---
 
 ## 🎯 Goal
 
-* Become a skilled MERN Stack Developer
-* Build real-world projects
-* Stay consistent and improve daily
+- Become a skilled MERN Stack Developer  
+- Build real-world projects  
+- Stay consistent and improve daily  
 
 ---
 
 ## 📂 Projects
 
-* 🍽️ **Recipe Page** (HTML)
+- 🍽️ **Recipe Page** (HTML)  
+  - My first project using basic HTML concepts  
 
-  * My first project using basic HTML concepts
-
-* 🎨 **Landing Page** (HTML + CSS)
-
-  * Practicing layout, Flexbox, and styling
+- 🎨 **Landing Page** (HTML + CSS)  
+  - Practicing layout, Flexbox, and styling  
 
 *(More projects coming soon...)*
 
@@ -30,106 +28,102 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ## 🛠️ Tech Stack (Learning Path)
 
-* HTML ✅
-* CSS ✅
-* JavaScript 🔜
-* React 🔜
-* Node.js 🔜
-* MongoDB 🔜
+- HTML ✅  
+- CSS ✅  
+- JavaScript 🔄  
+- React 🔜  
+- Node.js 🔜  
+- MongoDB 🔜  
 
 ---
 
-## 📅 Progress Log :
+## 📅 Progress Log
 
 ---
-
 
 ### 📅 March 20, 2026
-
-* Made this plan
-* Started learning with The Odin Project
+- Created this plan  
+- Started learning with The Odin Project  
 
 ### 📅 March 21, 2026
-
-* Started first project (HTML Recipe Page)
+- Started first project (HTML Recipe Page)  
 
 ### 📅 March 22, 2026
-
-* Completed first project
-* Continued learning
+- Completed first project  
+- Continued learning  
 
 ### 📅 March 23, 2026
-
-* Started CSS
-* Practiced exercises
+- Started CSS  
+- Practiced exercises  
 
 ### 📅 March 24, 2026
-
-* Continued learning new CSS concepts
+- Continued learning new CSS concepts  
 
 ### 📅 March 25, 2026
-
-* Learned block and inline concepts
-* Started Flexbox
+- Learned block and inline concepts  
+- Started Flexbox  
 
 ### 📅 March 26, 2026
-
-* Practiced more CSS exercises
+- Practiced more CSS exercises  
 
 ### 📅 March 27, 2026
-
-* Continued Flexbox exercises
-* Completed exercises section
+- Continued Flexbox exercises  
+- Completed exercises section  
 
 ### 📅 March 28, 2026
-
-* Started Landing Page project
+- Started Landing Page project  
 
 ### 📅 March 29, 2026
-
-* Worked on Landing Page (Day 2)
+- Worked on Landing Page (Day 2)  
 
 ### 📅 March 31, 2026
-
-* Completed the Landing page
-* starting Javascript section
+- Completed the Landing Page  
+- Started JavaScript section  
 
 ### 📅 April 1, 2026
-
-* Started with JS basics
-* going through the foundations
+- Started JavaScript basics  
+- Covered foundational concepts  
 
 ### 📅 April 2, 2026
-
-* Started doing the exercises section
+- Continued exercises  
 
 ### 📅 April 3, 2026
+- Completed Exercise 1  
 
-* completed exercise 1
+---
 
-### April 25th, 2026
+### 📅 April 25, 2026
+- Restarted the journey after a break due to procrastination  
+- Revised JavaScript basics  
+- Learned strings and string methods  
+- Practiced comparison operators  
+- Started if/else  
 
-* Restarted the journey after a break of procastination
-* started with js basics
-* then continued to strings and its methods
-* then to next comparisons
-* did some exercises with all of these
-* then started if/else
+---
 
-### April 26th, 2026
+### 📅 April 26, 2026
+- Studied from a reading room for better focus  
+- Learned logical operators and switch statements  
+- Started loops (for, while, do while)  
+- Practiced all topics  
 
-* Came to reading room for studying properly
-* Continued the balance js section
-* learned conditional operators, comparison operators, logical operators, switch, loops
-* practiced everything through exercises
+---
 
-### April 27th, 2026
+### 📅 April 27, 2026
+- Practiced loops extensively  
+- Learned nested loops (basic understanding)  
+- Understood pattern logic (square, increasing, decreasing)  
+- Improved problem-solving through pattern practice  
 
-* Practiced loops extensively
-* Learned nested loops (basic understanding)
-* Understood pattern logic (square, increasing, decreasing)
-* Learned importance of building rows before printing
-* Struggled with patterns but improved logic
+---
+
+### 📅 April 28, 2026
+- Learned centered triangle patterns (spaces + stars logic)  
+- Practiced number and pattern-based problems  
+- Understood use of variables for continuous values  
+- Started functions (basics, parameters, return)  
+- Practiced writing reusable functions  
+- Applied ternary operator inside functions  
 
 ---
 
@@ -137,9 +131,9 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 > **"No excuses, just execution."**
 
-* Focus on consistency over perfection
-* Build, learn, repeat
-* Improve 1% every day
+- Focus on consistency over perfection  
+- Build, learn, repeat  
+- Improve 1% every day  
 
 ---
 
