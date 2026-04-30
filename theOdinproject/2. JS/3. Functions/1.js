@@ -41,8 +41,12 @@
 // }
 // console.log(greet("GPT"));
 // -------------
-// function biggest(num1, num2, num3){
-//     let max = num1>num2?num1:num2;
-//     return max > num3?max:num3;
-// }
-// console.log(biggest(102, 203, 209));
+//  FIND THE BIGGEST In 3 numbers:
+// --------------
+//  function bignum(num1, num2, num3){
+//     let bignum = num1<num2? num2: num1;
+//     return bignum < num3? num3 : bignum;
+//  }
+//  console.log(bignum(23, 20, 22.5));
+// ---------------
+ 
