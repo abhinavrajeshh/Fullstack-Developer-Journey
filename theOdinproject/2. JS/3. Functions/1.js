@@ -112,12 +112,18 @@
     // }
     // console.log(multiply(3,8));
     // -----------------------------
-function cap(str){
-  let cap = str[0].toUpperCase() + str.slice(1);
-  return cap;
-}
-console.log(cap("abhinav"));
+// function cap(str){
+//   let cap = str[0].toUpperCase() + str.slice(1).toLowerCase();
+//   return cap;
+// }
+// console.log(cap("abHinav"));
 // -------------------------
+//   function lastletter(str){
+//     let last = str[str.length-1];
+//     return last;
+//   }
 
+// console.log(lastletter("Abhinav"));
+// -----------------------
 
  
