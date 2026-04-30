@@ -55,3 +55,25 @@
 //  }
 //  let nums = [1,2,3,4,5];
 //  test(nums);
+// ------------------------
+// function test(ar){
+//     console.log(ar[2]);
+// }
+// test([10,20,30,40,50]);
+// -------------------
+// function that takes array of numbers
+// return biggest number
+
+    function bignum(arr){
+        let max = arr[0];
+        for(let i = 1; i<arr.length; i++){
+          if(arr[i]> max){
+            max = arr[i];
+          }
+        }
+        return max;
+    }
+
+    let num = [109, 20, 30, 55, 40];
+    console.log(bignum(num));
+    
