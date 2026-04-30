@@ -64,16 +64,27 @@
 // function that takes array of numbers
 // return biggest number
 
-    function bignum(arr){
-        let max = arr[0];
-        for(let i = 1; i<arr.length; i++){
-          if(arr[i]> max){
-            max = arr[i];
-          }
-        }
-        return max;
+    // function bignum(arr){
+    //     let max = arr[0];
+    //     for(let i = 1; i<arr.length; i++){
+    //       if(arr[i]< max){
+    //         max = arr[i];
+    //       }
+    //     }
+    //     return max;
+    // }
+
+    // let num = [109, 20, 30, 55, 40];
+    // console.log(bignum(num));
+    // ---------------
+    function sum(arr){
+      let max = arr[0];
+      for(let i = 1; i<arr.length; i++){
+        max = max + arr[i];
+      }
+      return max;
     }
 
-    let num = [109, 20, 30, 55, 40];
-    console.log(bignum(num));
+    let num = [ 10, 20 , 30 ];
+    console.log(sum(num));
     
