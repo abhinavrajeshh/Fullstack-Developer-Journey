@@ -92,7 +92,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 April 25, 2026
+### 📅 April 26, 2026
 - Restarted the journey after a break due to procrastination  
 - Revised JavaScript basics  
 - Learned strings and string methods  
@@ -101,7 +101,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 April 26, 2026
+### 📅 April 27, 2026
 - Studied from a reading room for better focus  
 - Learned logical operators and switch statements  
 - Started loops (for, while, do while)  
@@ -109,7 +109,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 April 27, 2026
+### 📅 April 28, 2026
 - Practiced loops extensively  
 - Learned nested loops (basic understanding)  
 - Understood pattern logic (square, increasing, decreasing)  
@@ -117,7 +117,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 April 28, 2026
+### 📅 April 29, 2026
 - Learned centered triangle patterns (spaces + stars logic)  
 - Practiced number and pattern-based problems  
 - Understood use of variables for continuous values  
@@ -126,6 +126,16 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Applied ternary operator inside functions  
 
 ---
+### 📅 April 29, 2026
+
+- Practiced functions in JavaScript  
+- Learned function basics (declaration, calling, parameters, return)  
+- Understood function scope  
+- Learned anonymous functions and their use cases  
+- Learned difference between function declaration and function expression  
+- Solved practice problems (add7, multiply, capitalize, lastLetter)  
+- Worked with arrays inside functions (max, sum, count problems)  
+- Improved problem-solving and logic-building skills  
 
 ## 💡 Mindset
 
