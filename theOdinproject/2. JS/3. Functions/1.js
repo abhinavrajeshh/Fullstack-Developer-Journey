@@ -49,4 +49,9 @@
 //  }
 //  console.log(bignum(23, 20, 22.5));
 // ---------------
- 
+//  function test(arr){
+//     console.log(arr);
+    
+//  }
+//  let nums = [1,2,3,4,5];
+//  test(nums);
