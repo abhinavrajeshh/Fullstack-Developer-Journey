@@ -127,9 +127,9 @@
 // -----------------------
 
 
-// let sayHi = function(){
-//   console.log("HI");
+let sayHi = function(){
+  console.log("HI");
   
-// } 
-// sayHi();
+} 
+sayHi();
 // ----------
