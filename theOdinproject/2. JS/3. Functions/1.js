@@ -126,4 +126,10 @@
 // console.log(lastletter("Abhinav"));
 // -----------------------
 
- 
+
+// let sayHi = function(){
+//   console.log("HI");
+  
+// } 
+// sayHi();
+// ----------
