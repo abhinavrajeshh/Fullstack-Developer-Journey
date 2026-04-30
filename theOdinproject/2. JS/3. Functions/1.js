@@ -76,15 +76,48 @@
 
     // let num = [109, 20, 30, 55, 40];
     // console.log(bignum(num));
-    // ---------------
-    function sum(arr){
-      let max = arr[0];
-      for(let i = 1; i<arr.length; i++){
-        max = max + arr[i];
-      }
-      return max;
-    }
+    // -------------------
+    // function sum(arr){
+    //   let max = arr[0];
+    //   for(let i = 1; i<arr.length; i++){
+    //     max = max + arr[i];
+    //   }
+    //   return max;
+    // }
 
-    let num = [ 10, 20 , 30 ];
-    console.log(sum(num));
-    
+    // let num = [ 10, 20 , 30 ];
+    // console.log(sum(num));
+    // -----------------
+  // function count(arr){
+  //   let count = 0;
+  //   for(let i = 0; i<arr.length; i++){
+  //     if(arr[i]%2===0){
+  //       count = count + 1;
+  //     }
+  //   }
+  //   return count;
+  // }
+  //   let num = [2, 4, 5, 6, 8, 10, 11];
+  //   console.log(count(num));
+    // --------------------------
+    // odin assignment section :
+
+    // function add7(num){
+    //   return num + 7;
+    // }
+    // console.log(add7(10));
+
+    // function multiply(n1,n2){
+    //   return n1*n2;
+    // }
+    // console.log(multiply(3,8));
+    // -----------------------------
+function cap(str){
+  let cap = str[0].toUpperCase() + str.slice(1);
+  return cap;
+}
+console.log(cap("abhinav"));
+// -------------------------
+
+
+ 
