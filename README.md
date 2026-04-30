@@ -92,7 +92,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ---
 
-### 📅 April 26, 2026
+### 📅 April 25, 2026
 - Restarted the journey after a break due to procrastination  
 - Revised JavaScript basics  
 - Learned strings and string methods  
@@ -100,9 +100,8 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Started if/else  
 
 ---
-
 ### 📅 April 27, 2026
-- Studied from a reading room for better focus  
+
 - Learned logical operators and switch statements  
 - Started loops (for, while, do while)  
 - Practiced all topics  
@@ -126,7 +125,7 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Applied ternary operator inside functions  
 
 ---
-### 📅 April 29, 2026
+### 📅 April 30, 2026
 
 - Practiced functions in JavaScript  
 - Learned function basics (declaration, calling, parameters, return)  
