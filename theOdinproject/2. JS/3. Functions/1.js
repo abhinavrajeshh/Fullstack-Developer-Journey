@@ -138,3 +138,7 @@
 //  /-------------------------
 // let square = n => n*n;
 // console.log(square(10));
+// -------------------
+// let greet = () => "Hello";
+// let name = prompt("Enter your name: ");
+// console.log(greet() + " " + name);
