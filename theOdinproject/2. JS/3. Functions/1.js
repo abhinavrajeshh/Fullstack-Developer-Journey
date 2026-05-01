@@ -150,5 +150,24 @@
 // let multiply = (a,b) => a*b;
 // console.log(multiply(10, 7));
 // ----------------
-let max = (a,b)=> (a>b)?a:b;
-console.log("Max : " +max(101,112));
+// let max = (a,b)=> (a>b)?a:b;
+// console.log("Max : " +max(101,112));
+// -----------
+// function sum(arr){
+//   let total = 0;
+//   for(let i = 0; i<arr.length; i++){
+//     total = total + arr[i];
+//   }
+//   return total;
+// }
+// console.log(sum([5,2,3]));
+// --convert this to arrow function ---
+// let sum = (arr) =>  {
+//   let total = 0;
+//   for(let i =0; i<arr.length; i++){
+//     total+=arr[i];
+//   }
+//   return total;
+// }
+// console.log(sum([1, 2, 3, 50]));
+// ----------
