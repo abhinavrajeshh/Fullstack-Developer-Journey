@@ -142,3 +142,11 @@
 // let greet = () => "Hello";
 // let name = prompt("Enter your name: ");
 // console.log(greet() + " " + name);
+
+// ---PRACTICE ----
+// let add7 = n => n+7;
+// console.log(add7(10));
+// ------------
+// let multiply = (a,b) => a*b;
+// console.log(multiply(10, 7));
+// ----------------
