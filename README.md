@@ -138,13 +138,14 @@ This repository documents my **daily progress, projects, and learning journey** 
 
 ### 📅 May 1, 2026
 
-- Started preparing for Rock Paper Scissors project  
-- Practiced problem-solving using functions and conditionals  
-- Learned how to design logic for real-world problems  
-- Built `playRound()` function to determine game result  
-- Understood importance of writing complete conditions using `&&` and `||`  
-- Fixed logical mistakes and improved debugging skills  
-- Gained clarity on structuring conditions (draw → win cases → else)  
+- Learned arrow functions (syntax and usage)  
+- Practiced converting normal functions to arrow functions  
+- Worked with arrays using functions (sum, count problems)  
+- Started Rock Paper Scissors logic  
+- Built `playRound()` function using conditions  
+- Improved understanding of logical operators (`&&`, `||`)  
+
+---
 ## 💡 Mindset
 
 > **"No excuses, just execution."**
