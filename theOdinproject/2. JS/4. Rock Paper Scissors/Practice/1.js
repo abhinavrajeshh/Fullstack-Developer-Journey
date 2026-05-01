@@ -5,18 +5,7 @@
 // return:
 // "win" / "lose" / "draw"
 
-function playRound(player, computer){
-    let result ;
-   if(player === computer){
-    result = "Draw";
-   }else if(player === "rock"  && computer === "scissors"){
-    result = "Player win"
-   }else{
-    result = "Computer win"
-   }
-    return result;
-}
-console.log(playRound("paper","rock"));
+
 // ---------------------------------
 function playRound(player, computer) {
   if (player === computer) {
@@ -37,5 +26,5 @@ function playRound(player, computer) {
 console.log(playRound("paper", "rock"));
 
 function sayName(){
-    
+
 }
