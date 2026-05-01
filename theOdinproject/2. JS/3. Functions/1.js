@@ -125,11 +125,13 @@
 
 // console.log(lastletter("Abhinav"));
 // -----------------------
-
-
-let sayHi = function(){
-  console.log("HI");
+// let sayHi = function(){
+//   console.log("HI");
   
-} 
-sayHi();
+// } 
+// sayHi();
 // ----------
+// ----ARROW FUNCTION-----
+
+//  let add = (a,b)=> a+b;
+//  console.log(add(10, 20));
