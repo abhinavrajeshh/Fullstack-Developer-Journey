@@ -150,3 +150,5 @@
 // let multiply = (a,b) => a*b;
 // console.log(multiply(10, 7));
 // ----------------
+let max = (a,b)=> (a>b)?a:b;
+console.log("Max : " +max(101,112));
