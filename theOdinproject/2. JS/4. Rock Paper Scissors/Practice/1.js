@@ -7,24 +7,25 @@
 
 
 // ---------------------------------
-function playRound(player, computer) {
-  if (player === computer) {
-    return "Draw";
-  } 
-  else if (
-    (player === "rock" && computer === "scissors") ||
-    (player === "paper" && computer === "rock") ||
-    (player === "scissors" && computer === "paper")
-  ) {
-    return "Player win";
-  } 
-  else {
-    return "Computer win";
-  }
-}
+// function playRound(player, computer) {
+//   if (player === computer) {
+//     return "Draw";
+//   } 
+//   else if (
+//     (player === "rock" && computer === "scissors") ||
+//     (player === "paper" && computer === "rock") ||
+//     (player === "scissors" && computer === "paper")
+//   ) {
+//     return "Player win";
+//   } 
+//   else {
+//     return "Computer win";
+//   }
+// }
 
-console.log(playRound("paper", "rock"));
+// console.log(playRound("paper", "rock"));
 
-function sayName(){
+// function sayName(){
 
-}
+// }
+// ----------
