@@ -22,6 +22,10 @@ This repository documents my **daily progress, projects, and learning journey** 
 - 🎨 **Landing Page** (HTML + CSS)  
   - Practicing layout, Flexbox, and styling  
 
+- 🎮 **Rock Paper Scissors** (JavaScript)  
+  - Console-based game with user input and score tracking  
+  - 🔗 Live: https://abhinavrajeshh.github.io/Rock-paper-scissors/
+
 *(More projects coming soon...)*
 
 ---
@@ -100,8 +104,8 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Started if/else  
 
 ---
-### 📅 April 27, 2026
 
+### 📅 April 27, 2026
 - Learned logical operators and switch statements  
 - Started loops (for, while, do while)  
 - Practiced all topics  
@@ -125,8 +129,8 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Applied ternary operator inside functions  
 
 ---
-### 📅 April 30, 2026
 
+### 📅 April 30, 2026
 - Practiced functions in JavaScript  
 - Learned function basics (declaration, calling, parameters, return)  
 - Understood function scope  
@@ -136,8 +140,9 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Worked with arrays inside functions (max, sum, count problems)  
 - Improved problem-solving and logic-building skills  
 
-### 📅 May 1, 2026
+---
 
+### 📅 May 1, 2026
 - Learned arrow functions (syntax and usage)  
 - Practiced converting normal functions to arrow functions  
 - Worked with arrays using functions (sum, count problems)  
@@ -145,8 +150,9 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Built `playRound()` function using conditions  
 - Improved understanding of logical operators (`&&`, `||`)  
 
-### 📅 May 2, 2026
+---
 
+### 📅 May 2, 2026
 - Completed Rock Paper Scissors console project  
 - Implemented random computer choice using Math.random  
 - Took user input using prompt() in browser  
@@ -154,7 +160,9 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Added basic input validation  
 - Built full game flow with 5 rounds and scoring system  
 - Determined final winner based on scores  
+
 ---
+
 ## 💡 Mindset
 
 > **"No excuses, just execution."**
