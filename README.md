@@ -145,6 +145,15 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Built `playRound()` function using conditions  
 - Improved understanding of logical operators (`&&`, `||`)  
 
+### 📅 May 2, 2026
+
+- Completed Rock Paper Scissors console project  
+- Implemented random computer choice using Math.random  
+- Took user input using prompt() in browser  
+- Handled input formatting (toLowerCase, trim)  
+- Added basic input validation  
+- Built full game flow with 5 rounds and scoring system  
+- Determined final winner based on scores  
 ---
 ## 💡 Mindset
 
