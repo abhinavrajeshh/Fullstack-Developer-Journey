@@ -11,8 +11,8 @@ function getComputerChoice(){
 // console.log("Computer : " +getComputerChoice());
 // -----------------
 function getHumanChoice(){
-    let input = prompt("Enter your value: ");
-    input.toLowerCase().trim();
+    let input = prompt("Enter your value: ").toLowerCase().trim();
+    
     if(input === "rock" || input === "paper"||input === "scissors"){
         return input;
     }else{
