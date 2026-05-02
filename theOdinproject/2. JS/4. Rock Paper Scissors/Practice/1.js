@@ -21,11 +21,22 @@
 //   else {
 //     return "Computer win";
 //   }
-// }
+// }+
 
 // console.log(playRound("paper", "rock"));
 
-// function sayName(){
 
-// }
 // ----------
+function game(player, computer){
+  if(player===computer){
+    return "draw";
+  }else if(player==="stone" && computer ==="scissors" ||
+    player ==="paper" && computer ==="stone" ||
+    player === "scissors" && computer === "paper"
+  ){return "Player win" ;
+  }
+  else{
+    return "Computer win"
+  }
+}
+console.log(game("scissors","paper"));
