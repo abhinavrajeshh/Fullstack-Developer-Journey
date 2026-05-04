@@ -61,11 +61,18 @@
 //   console.log(arr[i]);
 // }
 // /--------------------
-let arr = [3,10,5];
-let max = arr[0];
-for(let i=1;i<arr.length;i++){
-  if(max<arr[i]){
-   max=arr[i]
+// let arr = [3,10,5];
+// let max = arr[0];
+// for(let i=1;i<arr.length;i++){
+//   if(max<arr[i]){
+//    max=arr[i]
+//   }
+// }
+// console.log(max);
+// ---------------------
+function countEven(arr){
+  for(let i = 0; i<arr.length; i++){
+    
   }
 }
-console.log(max);
+console.log(countEven([2,4,5, 6, 7]));
