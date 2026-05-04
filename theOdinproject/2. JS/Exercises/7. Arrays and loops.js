@@ -43,9 +43,25 @@
 // }
 // console.log(filterEven([1,2,3,4,5]));
 // -------------------------
-function sumEven(arr){
-        let evenArr = [];
-    for(let i = 0; i<arr.length; i++){
-        
-    }
-}
+// function sumEven(arr){
+//         let sum  = 0 ;
+//     for(let i = 0; i<arr.length; i++){
+//         if(arr[i]%2===0){
+//             sum = sum + arr[i];
+//         }
+//     }
+//     return sum;
+// }
+// console.log(sumEven([1,2,3,4,5,6]));
+// --------------------
+// function findOdd(arr){
+//     let odd = [];
+//     for(let i = 0; i<arr.length; i++){
+//         if(arr[i]%2===1){
+//             odd.push(arr[i])
+//         }
+//     }
+//     return odd;
+// }
+// console.log(findOdd([2,4,6,7,8]));
+//------------------------
