@@ -162,6 +162,17 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Determined final winner based on scores  
 
 ---
+### 📅 May 3, 2026
+
+- Learned arrays with loops (iteration using index)  
+- Practiced core patterns: max, count, sum  
+- Built functions for array processing (countEven, sumEven)  
+- Learned array transformation (doubleArray)  
+- Learned filtering data (filterEven using push)  
+- Understood difference between collecting values vs returning early  
+- Practiced finding specific values (first odd number logic)  
+
+---
 
 ## 💡 Mindset
 
