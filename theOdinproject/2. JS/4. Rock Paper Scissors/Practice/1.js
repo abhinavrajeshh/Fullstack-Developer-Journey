@@ -70,9 +70,22 @@
 // }
 // console.log(max);
 // ---------------------
-function countEven(arr){
+// function countEven(arr){
+//   let count = 0;
+//  for(let i = 0; i<arr.length; i++){
+//   if(arr[i]%2===0){
+//     count++;
+//   }
+//  }
+//  return count;
+// }
+// console.log(countEven([2,4,5, 6,7,8]));
+// =-----------------
+function doubleArray(arr){
+  let arr2 = [];
   for(let i = 0; i<arr.length; i++){
-    
+    arr2[i] = arr[i]*2;
   }
+  return arr2;
 }
-console.log(countEven([2,4,5, 6, 7]));
+console.log(doubleArray([1,2,3]));
