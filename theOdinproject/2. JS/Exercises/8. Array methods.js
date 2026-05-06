@@ -44,8 +44,12 @@
 // }
 // console.log(positiveNumbers([-2, 5, -1, 8, 0]));
 // ---------------------
-function startwithA(arr){
-    let withA = arr.filter( a=> a[0]==="A")
-    return withA;
-}
-console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"]));   
+// function startwithA(arr){
+//     let withA = arr.filter( a=> a[0]==="A")
+//     return withA;
+// }
+// console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"])); 
+// ---------------------------
+const numbers = [1,2,3,4,5];
+const sum = numbers.reduce((a,b)=>a+b);
+console.log(sum);
