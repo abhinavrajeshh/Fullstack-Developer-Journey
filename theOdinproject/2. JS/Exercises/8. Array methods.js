@@ -48,4 +48,4 @@ function startwithA(arr){
     let withA = arr.filter( a=> a[0]==="A")
     return withA;
 }
-console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"]));
+console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"]));   
