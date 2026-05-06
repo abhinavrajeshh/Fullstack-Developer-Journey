@@ -20,8 +20,13 @@
 // console.log(doubleArray([1,2,3,4,5]));
 // --------------------------
 
-function capitalizeWords(arr){
-    let cappedWords = arr.map(a => a[0].toUpperCase()+a.slice(1));
-    return cappedWords;
-}
-console.log(capitalizeWords(["hello", "world"]));
+// function capitalizeWords(arr){
+//     let cappedWords = arr.map(a => a[0].toUpperCase()+a.slice(1));
+//     return cappedWords;
+// }
+// console.log(capitalizeWords(["hello", "world"]));
+// -------------------------
+let arr = [1,2,3,4,5];
+let even = arr.filter(num => num%2===0);
+console.log(even);
+// -----------------------------
