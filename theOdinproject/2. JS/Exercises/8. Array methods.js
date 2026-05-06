@@ -50,6 +50,12 @@
 // }
 // console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"])); 
 // ---------------------------
-const numbers = [1,2,3,4,5];
-const sum = numbers.reduce((a,b)=>a+b);
-console.log(sum);
+// const numbers = [1,2,3,4,5];
+// const sum = numbers.reduce((a,b)=>a+b);
+// console.log(sum);
+// --------------------
+function multiplyArr(arr){
+    let output = arr.reduce((a, b) => a*b);
+    return output;
+}
+console.log(multiplyArr([1,2,3,4,5]));
