@@ -26,7 +26,26 @@
 // }
 // console.log(capitalizeWords(["hello", "world"]));
 // -------------------------
-let arr = [1,2,3,4,5];
-let even = arr.filter(num => num%2===0);
-console.log(even);
+// let arr = [1,2,3,4,5];
+// let even = arr.filter(num => num%2===0);
+// console.log(even);
 // -----------------------------
+// Practice problems-----
+// -------------
+// function longWords(arr){
+//     let long = arr.filter(a => a.length>4);
+//     return long;
+// }
+// console.log(longWords(["cat", "elephant", "dog", "tiger"]));
+// -------------------
+// function positiveNumbers(arr){
+//     let positive = arr.filter(a => a>0);
+//     return positive;
+// }
+// console.log(positiveNumbers([-2, 5, -1, 8, 0]));
+// ---------------------
+function startwithA(arr){
+    let withA = arr.filter( a=> a[0]==="A")
+    return withA;
+}
+console.log(startwithA(["Abhinav", "Rahul", "Arjun", "Vishnu"]));
