@@ -173,6 +173,17 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Practiced finding specific values (first odd number logic)  
 
 ---
+### 📅 May 6, 2026
+
+- Learned modern array methods in JavaScript  
+- Practiced `map()` for transforming array values  
+- Practiced `filter()` for selecting matching items  
+- Learned `reduce()` for combining values into a single result  
+- Converted manual loop problems into modern array method solutions  
+- Built practice functions using map, filter, and reduce  
+- Improved debugging and problem-solving skills through logic tracing  
+
+---
 
 ## 💡 Mindset
 
