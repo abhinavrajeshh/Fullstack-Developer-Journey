@@ -13,8 +13,15 @@
 // console.log(doubleArray([1,2,3,4,5]));
 // --CONVERT THIS TO MAP METHOD-----
 
-function doubleArray(arr){
-    let arr2 = arr.map(num => num*2);
-    return arr2;
+// function doubleArray(arr){
+//     let arr2 = arr.map(num => num*2);
+//     return arr2;
+// }
+// console.log(doubleArray([1,2,3,4,5]));
+// --------------------------
+
+function capitalizeWords(arr){
+    let cappedWords = arr.map(a => a[0].toUpperCase()+a.slice(1));
+    return cappedWords;
 }
-console.log(doubleArray([1,2,3,4,5]));
+console.log(capitalizeWords(["hello", "world"]));
