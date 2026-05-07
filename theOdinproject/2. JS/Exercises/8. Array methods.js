@@ -81,14 +81,23 @@
 // ------------------------------
 // ---Excercises of Odin------
 // --------------------
-function repeatString(str, num){
-    let newStr = "";
-    if(num>0){
-    for(let i = 0; i<num; i++){
-        newStr = newStr + str;
-    }  }else{
-        return "ERROR"
+// function repeatString(str, num){
+//     let newStr = "";
+//     if(num>0){
+//     for(let i = 0; i<num; i++){
+//         newStr = newStr + str;
+//     }  }else{
+//         return "ERROR"
+//     }
+//     return newStr;
+// }
+// console.log(repeatString("Hey", 9));
+// -------------------------
+function reverseString(str){
+    let reversed = "";
+    for(let i = str.length-1; i>=0; i--){
+        reversed = reversed + str[i];
     }
-    return newStr;
+    return reversed;
 }
-console.log(repeatString("Hey", 9));
+console.log(reverseString('Hello there'));
