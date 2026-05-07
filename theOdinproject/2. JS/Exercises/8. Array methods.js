@@ -72,9 +72,23 @@
 // }
 // console.log(findlow([3,10,5,8, -20, -10]));
 // --------------------------
-function sumofDoubledEvens(arr){
-    let sumofdoubledEven = arr.filter(num => num %2 ===0).map(num=> num*2).reduce((a,b) => a+b);
+// function sumofDoubledEvens(arr){
+//     let sumofdoubledEven = arr.filter(num => num %2 ===0).map(num=> num*2).reduce((a,b) => a+b);
 
-    return sumofdoubledEven; 
+//     return sumofdoubledEven; 
+// }
+// console.log(sumofDoubledEvens([1,2,3,4]));
+// ------------------------------
+// ---Excercises of Odin------
+// --------------------
+function repeatString(str, num){
+    let newStr = "";
+    if(num>0){
+    for(let i = 0; i<num; i++){
+        newStr = newStr + str;
+    }  }else{
+        return "ERROR"
+    }
+    return newStr;
 }
-console.log(sumofDoubledEvens([1,2,3,4]));
+console.log(repeatString("Hey", 9));
