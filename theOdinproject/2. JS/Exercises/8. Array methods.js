@@ -60,9 +60,14 @@
 // }
 // console.log(multiplyArr([1,2,3,4,5]));
 // -------------------------
-
-function findMax(arr){
- let output = arr.reduce((a,b)=> a>b? a:b);
- return output;
+// function findMax(arr){
+//  let output = arr.reduce((a,b)=> a>b? a:b);
+//  return output;
+// }
+// console.log(findMax([3,10,5,8]));
+// ----------------------------
+function findlow(arr){
+    let output = arr.reduce((a,b)=>a<b?a:b);
+    return output;
 }
-console.log(findMax([3,10,5,8]));
+console.log(findlow([3,10,5,8]));
