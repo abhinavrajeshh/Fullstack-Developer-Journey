@@ -93,11 +93,23 @@
 // }
 // console.log(repeatString("Hey", 9));
 // -------------------------
-function reverseString(str){
-    let reversed = "";
-    for(let i = str.length-1; i>=0; i--){
-        reversed = reversed + str[i];
+// function reverseString(str){
+//     let reversed = "";
+//     for(let i = str.length-1; i>=0; i--){
+//         reversed = reversed + str[i];
+//     }
+//     return reversed;
+// }
+// console.log(reverseString('Hello there'));
+// ---------------------------
+
+function removefromArray(arr, num){
+    let newArr = [];
+    for(let i = 0; i<arr.length; i++){
+        if(arr[i]!==num){
+            newArr.push(arr[i])
+        }
     }
-    return reversed;
+    return newArr;
 }
-console.log(reverseString('Hello there'));
+console.log(removefromArray([1,2,3,4], 3));
