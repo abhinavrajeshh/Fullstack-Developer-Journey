@@ -66,8 +66,15 @@
 // }
 // console.log(findMax([3,10,5,8]));
 // ----------------------------
-function findlow(arr){
-    let output = arr.reduce((a,b)=>a<b?a:b);
-    return output;
+// function findlow(arr){
+//     let output = arr.reduce((a,b)=>a>b?a:b);
+//     return output;
+// }
+// console.log(findlow([3,10,5,8, -20, -10]));
+// --------------------------
+function sumofDoubledEvens(arr){
+    let sumofdoubledEven = arr.filter(num => num %2 ===0).map(num=> num*2).reduce((a,b) => a+b);
+
+    return sumofdoubledEven; 
 }
-console.log(findlow([3,10,5,8]));
+console.log(sumofDoubledEvens([1,2,3,4]));
