@@ -103,13 +103,14 @@
 // console.log(reverseString('Hello there'));
 // ---------------------------
 
-function removefromArray(arr, num){
-    let newArr = [];
-    for(let i = 0; i<arr.length; i++){
-        if(arr[i]!==num){
-            newArr.push(arr[i])
-        }
-    }
-    return newArr;
-}
-console.log(removefromArray([1,2,3,4], 3));
+// function removefromArray(arr, num){
+//     let newArr = [];
+//     for(let i = 0; i<arr.length; i++){
+//         if(arr[i]!==num){
+//             newArr.push(arr[i])
+//         }
+//     }
+//     return newArr;
+// }
+// console.log(removefromArray([1,2,3,4], 3));
+// ----------------------------
