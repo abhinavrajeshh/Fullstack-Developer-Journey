@@ -101,8 +101,8 @@
 //     return reversed;
 // }
 // console.log(reverseString('Hello there'));
-// ---------------------------
 
+// ---------------------------
 // function removefromArray(arr, num){
 //     let newArr = [];
 //     for(let i = 0; i<arr.length; i++){
@@ -119,12 +119,18 @@ function sumAll(num1, num2) {
 
     let start = num1 < num2 ? num1 : num2;
     let end = num1 > num2 ? num1 : num2;
-
     for(let i = start; i <= end; i++){
         sum = sum + i;
     }
-
     return sum;
 }
 
 console.log(sumAll(4, 1));
+// /-----------------------------
+
+function arrayMethodwokring (para1, para2){
+    let sum = 1;
+    for(let i = 1 ; i<=n ; i++){
+        
+    }
+}
