@@ -114,23 +114,16 @@
 // }
 // console.log(removefromArray([1,2,3,4], 3));
 // ----------------------------
-function sumAll(num1, num2) {
-    let sum = 0;
+// function sumAll(num1, num2) {
+//     let sum = 0;
 
-    let start = num1 < num2 ? num1 : num2;
-    let end = num1 > num2 ? num1 : num2;
-    for(let i = start; i <= end; i++){
-        sum = sum + i;
-    }
-    return sum;
-}
+//     let start = num1 < num2 ? num1 : num2;
+//     let end = num1 > num2 ? num1 : num2;
+//     for(let i = start; i <= end; i++){
+//         sum = sum + i;
+//     }
+//     return sum;
+// }
 
-console.log(sumAll(4, 1));
-// /-----------------------------
-
-function arrayMethodwokring (para1, para2){
-    let sum = 1;
-    for(let i = 1 ; i<=n ; i++){
-        
-    }
-}
+// console.log(sumAll(4, 1));
+//-----------------------------
