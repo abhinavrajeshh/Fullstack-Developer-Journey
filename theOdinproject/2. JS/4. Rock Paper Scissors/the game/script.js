@@ -18,7 +18,6 @@ function getHumanChoice(){
     }else{
         return "rock"
     }
-    
 }
 // console.log("Human : " + getHumanChoice());
 // -------------------
