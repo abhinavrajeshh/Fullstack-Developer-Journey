@@ -184,7 +184,49 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Improved debugging and problem-solving skills through logic tracing  
 
 ---
+### 📅 May 7, 2026
 
+- Practiced JavaScript exercises consistently  
+- Solved multiple coding exercises independently  
+- Worked with array pipelines and chaining methods  
+- Improved understanding of logic building and problem solving  
+- Continued strengthening JavaScript fundamentals through repetition  
+
+---
+
+### 📅 May 9, 2026
+
+- Started learning DOM Manipulation  
+- Understood the role of the DOM in JavaScript  
+- Began transitioning from console-based JavaScript to browser interaction  
+
+---
+
+### 📅 May 11, 2026
+
+- Started practicing DOM manipulation deeply  
+- Learned `querySelector()` and element selection  
+- Learned `addEventListener()` for handling user interaction  
+- Practiced changing text dynamically using `textContent`  
+- Learned `createElement()` and `appendChild()`  
+- Built small DOM practice exercises using buttons and paragraphs  
+- Improved understanding of event-driven programming  
+
+---
+
+### 📅 May 12, 2026
+
+- Practiced DOM manipulation extensively  
+- Combined multiple DOM concepts into mini exercises  
+- Built interactive UI using buttons and dynamic content updates  
+- Added styling and improved UI structure using CSS  
+- Converted Rock Paper Scissors from console version to browser version  
+- Connected JavaScript game logic with DOM interaction  
+- Used buttons instead of prompt-based input  
+- Displayed game results dynamically on the webpage  
+- Completed the Rock Paper Scissors DOM project 🎉
+
+---
 ## 💡 Mindset
 
 > **"No excuses, just execution."**
