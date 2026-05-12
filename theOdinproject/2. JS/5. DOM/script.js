@@ -13,3 +13,21 @@
 // console.log(document);
 
 // ------------
+// const heading = document.querySelector("#title");
+// const para = document.querySelector(".text");
+// const btn = document.querySelector("button");
+
+// heading.textContent = "hehe";
+// para.textContent = "New text";
+
+const button1 = document.querySelector("#btn1");
+
+button1.addEventListener("click", function(){
+    console.log("Button:1 - Clicked");
+    
+})
+
+const button2 = document.querySelector("#btn2");
+button2.addEventListener("click", function(){
+    console.log("Button:2 clicked")
+})
