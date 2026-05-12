@@ -19,15 +19,20 @@
 
 // heading.textContent = "hehe";
 // para.textContent = "New text";
+// -----------------------
+const para = document.querySelector(".text");
 
 const button1 = document.querySelector("#btn1");
 
 button1.addEventListener("click", function(){
     console.log("Button:1 - Clicked");
-    
+    para.textContent = "Button 1 clicked";
+    para.style.color = "red";
 })
 
 const button2 = document.querySelector("#btn2");
 button2.addEventListener("click", function(){
-    console.log("Button:2 clicked")
+    console.log("Button:2 clicked");
+    para.textContent = "Button 2 clicked";
+    para.style.backgroundColor = "yellow";
 })
