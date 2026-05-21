@@ -29,24 +29,46 @@
 // console.log(obj);
 // console.log(objcopy);
 // ----------------
-function increaseCounterObject(objectCounter) {
-  objectCounter.counter += 1;
+// function increaseCounterObject(objectCounter) {
+//   objectCounter.counter += 1;
+// }
+
+// function increaseCounterPrimitive(primitiveCounter) {
+//   primitiveCounter += 1;
+// }
+
+// const object = { counter: 0 };
+// let primitive = 0;
+
+// increaseCounterObject(object);
+// increaseCounterPrimitive(primitive);
+
+// console.log(object);
+// ---- -----------
+// const phone = {
+//     brand : "Redmi",
+//     ram : 8,
+//     storage : "128gb"
+// }
+// --------------
+// const student = {
+//     name : "John",
+//     age : 28,
+//     course: "BCA",
+//     marks : "80%"
+// }
+// console.log(student.course);
+// student.marks = "95%";
+// student.place = "Trivandrum";
+// console.log(student);
+// /-------/----------
+
+const car = {
+    brand : "Bmw",
+    model : "Top varient",
+    year : 2020
 }
-
-function increaseCounterPrimitive(primitiveCounter) {
-  primitiveCounter += 1;
-}
-
-const object = { counter: 0 };
-let primitive = 0;
-
-increaseCounterObject(object);
-increaseCounterPrimitive(primitive);
-
-console.log(object);
-// ---------------
-const phone ={
-    brand : "Redmi",
-    ram : 8,
-    storage : "128gb"
-}
+console.log(car.brand +" "+ car.year);
+car.year = "2025";
+car.color = "black";
+console.log(car)
