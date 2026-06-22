@@ -63,12 +63,13 @@
 // console.log(student);
 // /-------/----------
 
-const car = {
-    brand : "Bmw",
-    model : "Top varient",
-    year : 2020
-}
-console.log(car.brand +" "+ car.year);
-car.year = "2025";
-car.color = "black";
-console.log(car)
+// const car = {
+//     brand : "Bmw",
+//     model : "Top varient",
+//     year : 2020
+// }
+// console.log(car.brand +" "+ car.year);
+// car.year = "2025";
+// car.color = "black";
+// console.log(car)
+// --------------
