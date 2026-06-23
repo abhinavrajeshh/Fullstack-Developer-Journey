@@ -227,6 +227,16 @@ This repository documents my **daily progress, projects, and learning journey** 
 - Completed the Rock Paper Scissors DOM project 🎉
 
 ---
+
+### 📅 June 23, 2026
+
+* Completed BCA semester exams
+* Returned to JavaScript after exam break
+* Revised fundamentals: variables, loops, functions, arrays
+* Restarted The Odin Project journey
+
+
+---
 ## 💡 Mindset
 
 > **"No excuses, just execution."**
