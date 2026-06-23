@@ -61,7 +61,27 @@
 // fruits.pop();
 // console.log(fruits);
 // ----------
-let numbers = [2,3,4];
+// let numbers = [2,3,4];
 
-numbers.unshift(1);
-console.log(numbers);
+// numbers.unshift(1);
+// console.log(numbers);
+// ----------------
+// let fruits = ["apple", "banana", "orange"];
+
+// fruits.shift();
+// console.log(fruits)
+// --------------
+// let arr = [1,2,3,4,5];
+// // let newArr = arr.filter(function(item){
+// //     return item > 3;
+// // });
+// // console.log(newArr);
+// let newArr = arr.shift();
+// console.log(newArr);
+// console.log(arr);
+// -------------
+// let arr = [ 1,2, 3, 4, 5];
+// let newArr = arr.filter(function(item){
+//     return item > 3;
+// });
+// console.log(newArr);
