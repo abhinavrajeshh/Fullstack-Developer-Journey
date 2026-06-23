@@ -86,3 +86,38 @@
 // });
 // console.log(newArr);
 // ---------------
+// let newArr = arr.filter((a)=>{
+//     return a>3;
+// });
+// console.log(newArr);
+// ------------------
+// let numbers = [1,2,3];
+// let newarr = numbers.map((a)=>{
+//     return a*2;
+// });
+// console.log(newarr);
+// --------------
+// let numbers = [1,2,3];
+// let newarr = numbers.map((a)=>{
+//     return a/10;
+// });
+// console.log(newarr);
+// ------ -----
+
+// let numbers = [1,2,3,4,5];
+// numbers.forEach((a)=>{
+//     console.log(a);
+// });
+
+// let fruits = ["apple", "banana", "orange"];
+// fruits.forEach((a)=>{
+//     console.log(a);
+    
+// });
+// -----------------------
+
+// let numbers = [5,1,4,2,3];
+
+// numbers.sort();
+
+// console.log(numbers);
