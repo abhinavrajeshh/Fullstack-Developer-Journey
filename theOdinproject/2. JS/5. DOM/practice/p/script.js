@@ -1,16 +1,16 @@
-// let title = document.querySelector("#title");
-// title.textContent = "Hello Abhinav";
+let title = document.querySelector("#title");
+title.textContent = "Hello Abhinav";
 
-// let title = document.querySelector('#title');
-// title.textContent = "changed sub";
+let title = document.querySelector('#title');
+title.textContent = "changed sub";
 
-// let newLe = document.querySelector("#h3");
-// newLe.textContent = "this is changed now";
+let newLe = document.querySelector("#h3");
+newLe.textContent = "this is changed now";
 
-// const heading = document.querySelector("h1");
-// console.log(heading);
+const heading = document.querySelector("h1");
+console.log(heading);
 
-// console.log(document);
+console.log(document);
 
 // ------------
 // const heading = document.querySelector("#title");
@@ -35,4 +35,9 @@ button2.addEventListener("click", function(){
     console.log("Button:2 clicked");
     para.textContent = "Button 2 clicked";
     para.style.backgroundColor = "yellow";
+});
+const para = document.querySelector("text");
+const button1 = document.querySelector("btn");
+button1.addEventListener("click", function(){
+    
 })
