@@ -27,23 +27,23 @@ function getComputerChoice(){
     }
 }
 let computer = getComputerChoice();
-console.log(computer);
+console.log("Computer : ",computer);
 
 function getHumanChoice(){
     let value = prompt("rock , paper or scissors? ");
     return value;
 }
 let human = getHumanChoice();
-console.log(human);
+console.log("Human : ",human);
 
-function playround(human, computer){
+function playRound(human, computer){
     if(human==="rock" && computer ==="paper" || human === "paper" && computer === "scissors" || human === "scissors" && computer === "rock"){
-        
+        return "Computer win";
     }   
-    else if(human === "rock" && computer === "scissors" || human === "paper" && computer === "rock" || human === "scissors" && computer === "paper") 
-        return "Human win"; 
+    else if(human === "rock" && computer === "scissors" || human === "paper" && computer === "rock" || human === "scissors" && computer === "paper") {
+        return "Human win"; }
     else{
         return "Draw"
     }
 }
-console.log(playround());
+console.log(playRound(human, computer));
