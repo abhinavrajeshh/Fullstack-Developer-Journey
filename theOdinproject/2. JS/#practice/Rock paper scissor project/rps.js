@@ -12,7 +12,7 @@
 // console.log(num)
 // console.log(Math.floor(num));
 // ---------------------------------
-
+// ----------------------
 function getComputerChoice(){
     let a = Math.random()*3;
     let value = Math.floor(a);
