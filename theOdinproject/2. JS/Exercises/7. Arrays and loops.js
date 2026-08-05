@@ -84,3 +84,15 @@
 
 
 //Practice session after a break-------
+
+// 1. Sum of even function. 
+
+function sumEven(numbers){
+    let sum = 0, i;
+    for(i = 0;i<=numbers[i];i++){
+        if(numbers[i]%2===0){
+            sum+=numbers[i];
+        }
+    }
+}
+console.log(sumEven([1,2,3,4,5]));
