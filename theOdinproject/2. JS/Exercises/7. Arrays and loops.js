@@ -114,21 +114,25 @@
 // -----------
 // Q3. countVowels(str)
 
-// function countVowels(str){
-//     let vowels = ["a", "e", "i", "o", "u"], count = 0;
-//     for(let i = 1; i<str.length; i++){
-
-//     }
-// }
-// console.log(countVowels("javascript"));
+function countVowels(str){
+    let vowels = ["a", "e", "i", "o", "u"], count = 0;
+    for(let i = 0; i<str.length; i++){
+        if(vowels.includes(str[i])){
+            count ++;
+        }
+    }
+    return count;
+}
+console.log(countVowels("javascript"));
 // ---------
 // Q4 — Reverse an Array
 
-function reverseArr(arr){
-    let revArr = [];
-    for(let i = arr.length -1; i>=0; i--){
-        revArr.push(arr[i])
-    }
-    return revArr;
-}
-console.log(reverseArr([1, 2, 3, 4]));
+// function reverseArr(arr){
+//     let revArr = [];
+//     for(let i = arr.length -1; i>=0; i--){
+//         revArr.push(arr[i])
+//     }
+//     return revArr;
+// }
+// console.log(reverseArr([1, 2, 3, 4]));
+// ----------
