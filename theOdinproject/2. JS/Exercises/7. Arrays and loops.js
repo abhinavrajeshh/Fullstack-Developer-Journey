@@ -101,13 +101,34 @@
 
 // Q2. findLargest(numbers)
 
-function findLargest(numbers){
-    let large = 0;
-    for(let i = 0; i<numbers.length; i++){
-        if(large<= numbers[i]){
-            large = numbers[i];
-        }
+// function findLargest(numbers){
+//     let large = 0;
+//     for(let i = 0; i<numbers.length; i++){
+//         if(large<= numbers[i]){
+//             large = numbers[i];
+//         }
+//     }
+//     return large;
+// }
+// console.log(findLargest([12, 5, 90, 33, 21]));
+// -----------
+// Q3. countVowels(str)
+
+// function countVowels(str){
+//     let vowels = ["a", "e", "i", "o", "u"], count = 0;
+//     for(let i = 1; i<str.length; i++){
+
+//     }
+// }
+// console.log(countVowels("javascript"));
+// ---------
+// Q4 — Reverse an Array
+
+function reverseArr(arr){
+    let revArr = [];
+    for(let i = arr.length -1; i>=0; i--){
+        revArr.push(arr[i])
     }
-    return large;
+    return revArr;
 }
-console.log(findLargest([12, 5, 90, 33, 21]));
+console.log(reverseArr([1, 2, 3, 4]));
