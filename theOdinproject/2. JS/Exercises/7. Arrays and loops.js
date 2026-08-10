@@ -71,7 +71,7 @@
 //     for(let i = 0; i<arr.length; i++){
 //         if(arr[i]%2===0){
 //             trippled.push(arr[i]*3);
-//         }
+//         } 
 //     }
 //     for(let i = 0; i<trippled.length; i++){
 //         sum = sum + trippled[i];
@@ -86,18 +86,14 @@
 //Practice session after a break-------
 
 // 1. Sum of even function. 
-
-// function sumEven(numbers){
-//     let sum = 0, i;
-//     for(i = 0;i<=numbers.length;i++){
-//         if(numbers[i]%2===0){
-//             sum+=numbers[i];
-//         }
-//     }
-//     return sum;
-// }
-// console.log(sumEven([1,2,3,4,5]));
-// --------------
-Q2. Find the largest number. 
-
  
+function sumEven(arr){
+    let sum = 0;
+    for(let i = 0; i<=arr.length; i++){
+        if(arr[i]%2===0){
+            sum = sum + arr[i];
+        }
+    }
+    return sum;
+}
+console.log(sumEven([2, 5, 6, 7, 8]));
