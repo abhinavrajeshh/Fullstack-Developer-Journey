@@ -87,13 +87,27 @@
 
 // 1. Sum of even function. 
  
-function sumEven(arr){
-    let sum = 0;
-    for(let i = 0; i<=arr.length; i++){
-        if(arr[i]%2===0){
-            sum = sum + arr[i];
+// function sumEven(arr){
+//     let sum = 0;
+//     for(let i = 0; i<=arr.length; i++){
+//         if(arr[i]%2===0){
+//             sum = sum + arr[i];
+//         }
+//     }
+//     return sum;
+// }
+// console.log(sumEven([2, 5, 6, 7, 8]));
+// --------------------------
+
+// Q2. findLargest(numbers)
+
+function findLargest(numbers){
+    let large = 0;
+    for(let i = 0; i<numbers.length; i++){
+        if(large<= numbers[i]){
+            large = numbers[i];
         }
     }
-    return sum;
+    return large;
 }
-console.log(sumEven([2, 5, 6, 7, 8]));
+console.log(findLargest([12, 5, 90, 33, 21]));
