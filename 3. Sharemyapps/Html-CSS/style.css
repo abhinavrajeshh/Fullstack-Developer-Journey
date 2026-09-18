@@ -1,0 +1,270 @@
+/* =========================
+   BASIC STYLING
+   ========================= */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  background: #f5f5f5;
+}
+
+section {
+  max-width: 900px;
+  margin: 30px auto;
+  padding: 25px;
+  background: white;
+  border-radius: 10px;
+}
+
+.demo {
+  min-height: 120px;
+  padding: 15px;
+  border: 3px dashed #999;
+  background: #eee;
+  display: flex;
+}
+
+.box {
+  width: 90px;
+  height: 60px;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #333;
+  color: white;
+  font-weight: bold;
+}
+
+
+/* =========================
+   1. DISPLAY: FLEX
+   ========================= */
+
+.display-flex {
+  display: flex;
+}
+
+
+/* =========================
+   2. FLEX-DIRECTION
+   ========================= */
+
+.direction-row {
+  flex-direction: row;
+}
+
+.direction-column {
+  flex-direction: column;
+  height: 260px;
+}
+
+
+/* =========================
+   3. JUSTIFY-CONTENT
+   ========================= */
+
+.justify-example {
+  justify-content: space-between;
+
+  /*
+  Try:
+
+  justify-content: flex-start;
+  justify-content: center;
+  justify-content: flex-end;
+  justify-content: space-between;
+  justify-content: space-around;
+  justify-content: space-evenly;
+  */
+}
+
+
+/* =========================
+   4. ALIGN-ITEMS
+   ========================= */
+
+.align-items-example {
+  height: 220px;
+  align-items: center;
+
+  /*
+  Try:
+
+  align-items: flex-start;
+  align-items: center;
+  align-items: flex-end;
+  align-items: stretch;
+  */
+}
+
+.small {
+  height: 40px;
+}
+
+.medium {
+  height: 80px;
+}
+
+.tall {
+  height: 130px;
+}
+
+
+/* =========================
+   5. ALIGN-CONTENT
+   ========================= */
+
+.align-content-example {
+  height: 350px;
+
+  flex-wrap: wrap;
+
+  align-content: center;
+
+  /*
+  Try:
+
+  align-content: flex-start;
+  align-content: center;
+  align-content: flex-end;
+  align-content: space-between;
+  align-content: space-around;
+  align-content: space-evenly;
+  */
+}
+
+.align-content-example .box {
+  width: 120px;
+}
+
+
+/* =========================
+   6. FLEX-WRAP
+   ========================= */
+
+.wrap-example {
+  flex-wrap: wrap;
+
+  /*
+  Try:
+
+  flex-wrap: nowrap;
+  flex-wrap: wrap;
+  */
+}
+
+.wrap-example .box {
+  width: 180px;
+}
+
+
+/* =========================
+   7. GAP
+   ========================= */
+
+.gap-example {
+  gap: 30px;
+
+  /*
+  Try:
+
+  gap: 0px;
+  gap: 10px;
+  gap: 30px;
+  gap: 50px;
+  */
+}
+
+
+/* =========================
+   8. FLEX-GROW
+   ========================= */
+
+.grow-example .box {
+  width: 100px;
+}
+
+.grow-1 {
+  flex-grow: 1;
+}
+
+.grow-2 {
+  flex-grow: 2;
+}
+
+
+/* =========================
+   9. FLEX-SHRINK
+   ========================= */
+
+.shrink-example {
+  width: 350px;
+  overflow: hidden;
+}
+
+.shrink-example .box {
+  width: 250px;
+}
+
+.no-shrink {
+  flex-shrink: 0;
+}
+
+.normal-shrink {
+  flex-shrink: 1;
+}
+
+
+/* =========================
+   10. FLEX-BASIS
+   ========================= */
+
+.basis-150 {
+  flex-basis: 150px;
+}
+
+.basis-250 {
+  flex-basis: 250px;
+}
+
+
+/* =========================
+   🔥 COMBINED EXAMPLE
+   ========================= */
+
+.cards {
+  display: flex;
+
+  flex-wrap: wrap;
+
+  justify-content: center;
+
+  align-items: stretch;
+
+  gap: 20px;
+}
+
+.card {
+  flex: 1 1 200px;
+
+  padding: 25px;
+
+  border: 2px solid #ccc;
+
+  border-radius: 10px;
+
+  display: flex;
+
+  flex-direction: column;
+}
+
+.card button {
+  margin-top: auto;
+  padding: 10px;
+}
