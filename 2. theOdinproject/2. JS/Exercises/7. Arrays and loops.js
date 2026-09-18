@@ -114,16 +114,16 @@
 // -----------
 // Q3. countVowels(str)
 
-function countVowels(str){
-    let vowels = ["a", "e", "i", "o", "u"], count = 0;
-    for(let i = 0; i<str.length; i++){
-        if(vowels.includes(str[i])){
-            count ++;
-        }
-    }
-    return count;
-}
-console.log(countVowels("javascript"));
+// function countVowels(str){
+//     let vowels = ["a", "e", "i", "o", "u"], count = 0;
+//     for(let i = 0; i<str.length; i++){
+//         if(vowels.includes(str[i])){
+//             count ++;
+//         }
+//     }
+//     return count;
+// }
+// console.log(countVowels("javascript"));
 // ---------
 // Q4 — Reverse an Array
 
