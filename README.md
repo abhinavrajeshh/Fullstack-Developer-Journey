@@ -1,6 +1,6 @@
 # 🚀 Fullstack Developer Journey – 2026
 
-Hi, I’m **Abhinav**, a BCA student from Kerala, currently on a mission to become a **MERN Stack Developer**.
+Hi, I’m **Abhinav**, a BCA student from Kerala, currently on a mission to become a **FULL STACK AI ENGINEER**.
 
 This repository documents my **daily progress, projects, and learning journey** as I work toward building real-world development skills and landing my first developer job.
 
