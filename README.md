@@ -305,6 +305,16 @@ Started as a console-based game and later converted into an interactive browser 
 * Prepared for the JavaScript review
 
 ---
+### 📅 October 3, 2026
+
+* Completed the first **JavaScript review** with the ShareMyApps mentorship programme
+* Answered around 75% of the questions correctly
+* Got positive feedback from the mentor
+* Identified topics that need deeper understanding, especially **scope, hoisting, and closures**
+* Got advice to start developing an understanding of **application architecture** while learning
+* Next JavaScript review planned after 10 days
+
+---
 
 ## 📌 Note
 
