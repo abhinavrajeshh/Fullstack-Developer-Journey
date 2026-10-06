@@ -296,6 +296,15 @@ Started as a console-based game and later converted into an interactive browser 
 * Moving forward to **JavaScript** 🚀
 
 ---
+### 📅 September 18 – October 2, 2026
+
+* Continued JavaScript learning through the **ShareMyApps Mentorship Programme**
+* Followed the mentorship roadmap and worked through JavaScript fundamentals
+* Learned and practiced data types, type conversion, operators, conditionals, functions, objects, loops, and other core JavaScript concepts
+* Focused more on understanding how concepts work instead of just memorizing them
+* Prepared for the JavaScript review
+
+---
 
 ## 📌 Note
 
