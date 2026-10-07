@@ -54,7 +54,7 @@
 // let b = 20;
 // let big = a>b?a:b;
 // console.log(big );
-// -----------
+// -----------  
 // function add(a,b){
 // return a+b;
 // }
@@ -73,3 +73,11 @@
 //     console.log("hello");
 // })();
 // -----------
+
+function hello(){
+    var message = "hello";
+    console.log(message);
+    
+}
+// hello();
+console.log(message);
